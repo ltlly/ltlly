@@ -33,7 +33,6 @@ results available through reproducible command-line workflows.
 | [bn-cli](https://github.com/ltlly/bn-cli) | Headless Binary Ninja CLI designed for coding agents, daemon workflows, compact output, and broad analysis coverage. |
 | [ida-rs-cli](https://github.com/ltlly/ida-rs-cli) | Rust-based headless IDA Pro CLI with daemon IPC, multi-target analysis, and context-aware output for agents. |
 | [miku-shield](https://github.com/ltlly/miku-shield) | eBPF-based Android observer for studying anti-Frida behavior and mitigation strategies. |
-| [ghidra_rust](https://github.com/ltlly/ghidra_rust) | Experimental Rust work around Ghidra-compatible decompilation, analysis, emulation, and headless services. |
 | [il2cpp_bn](https://github.com/VNRev/il2cpp_bn) | Binary Ninja plugin for importing IL2CPP metadata and efficiently recovering symbols from large Unity targets. |
 
 ## Research Threads
